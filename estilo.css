@@ -11,7 +11,7 @@ img {
     display: block;
     padding: 1%;
     margin: auto;
-    width: 40%;
+    width: 35%;
     max-width: 100%;
 }
 
@@ -26,6 +26,7 @@ img {
 }
 
 button {
+    background-color: white;
     text-align: center;
     margin: auto;
     display: flex;
